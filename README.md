@@ -48,10 +48,4 @@
 
 <br/>  
 
-
-
-### Listening  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zarabvx8tfys9k1y6s6m8gz03&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://open.spotify.com/user/zarabvx8tfys9k1y6s6m8gz03)
-<br />
-
 ---
