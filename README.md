@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://chudamanisuna.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css," />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwind,git,github" />
   </a>
 </p>
  
